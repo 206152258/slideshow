@@ -1,0 +1,17 @@
+#images>img{
+    width:250px;
+    height:150px;
+}
+#first{
+    width:250px;
+    height:150px;
+    overflow: hidden;
+    border:2px solid green;
+}
+#images{
+    display:flex;
+    align-items: flex-start;
+}
+.red{
+    color:red;
+}
